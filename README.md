@@ -6,3 +6,5 @@ pip install -r requirements.txt
 fastapi dev main.py
 
 ROBIONE W VISUAL STUDIO CODE
+
+KOD ZNAJDUJE SIĘ W FOLDERZE PEOPLE_V1
